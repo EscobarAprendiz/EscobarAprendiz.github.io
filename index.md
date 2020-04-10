@@ -1,2 +1,2 @@
-<a>title: Welcome! This is my page.<p>
+title: Welcome! This is my page.<p>
 description: I'm a beginner. I started 10/04/2020 in the world of programming. Follow me to see my evolution.
